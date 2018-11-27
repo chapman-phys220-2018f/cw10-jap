@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 10
 
-**Author(s):** **Jessica, Alley, Paul Hatem**
+**Author(s):** **Jessica, Alley Busick, Paul Hatem**
 
 ## Specification
 
@@ -70,4 +70,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**Jessica, Alley, Paul Hatem**
+**Jessica, Alley Busick, Paul Hatem**
