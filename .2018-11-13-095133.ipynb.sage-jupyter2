@@ -1,6 +1,0 @@
-{"type":"cell","id":"a2a38d","pos":0,"input":" $$u'(t) = f[t, u(t)]$$\n $u'(t) = 2 u(t)$\n \n $u'(t) = 2t^2u(t)$\n\n\n","cell_type":"markdown"}
-{"type":"cell","id":"c02d2f","pos":2,"input":""}
-{"type":"cell","id":"cf692f","pos":1,"input":"$(t_0, t_1, t_2, ..., t_N)$\n\n\n\n\n$\\tilde{u}_{k+1} = u_k + \\Delta t, f[t_k, u_k]$,\n\n\n\n\n\n\n$u_{k+1} = u_k + (\\Delta t/2)(f[t_k, u_k] + f[t_{k+1}, \\tilde{u}_{k+1}])$\n","cell_type":"markdown"}
-{"type":"cell","id":"f69bed","pos":0.5,"input":" $u'(t) = 2u(t)$ yields $u(t) = u_0 \\exp(2 t)$,","cell_type":"markdown"}
-{"type":"file","last_load":1542131500733}
-{"type":"settings","backend_state":"running","trust":true,"kernel":"anaconda5","kernel_usage":{"cpu":0,"memory":75149312},"kernel_state":"idle"}
